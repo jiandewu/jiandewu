@@ -6,6 +6,7 @@ infectious disease forecasting. Previously a Senior Bioinformatics Specialist
 at LSU Health Sciences Center. Ph.D. in Electrical Engineering, University of
 New Orleans.
 
+[![Website](https://img.shields.io/badge/Website-jiandewu.github.io-8A3B12)](https://jiandewu.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=VwRAV8kAAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0002--9357--2977-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-9357-2977)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiandewu/)
