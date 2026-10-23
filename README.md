@@ -22,6 +22,7 @@ New Orleans.
 
 | Project | Description |
 | --- | --- |
+| [resplens](https://github.com/jiandewu/resplens) | AI assistant toolkit for US respiratory surveillance data, with reliability-aware MCP tools and evaluated document retrieval. |
 | [ObsAwareData](https://github.com/DMA-PRIME/ObsAwareData) | Weekly COVID-19, influenza, and RSV surveillance data for the 50 US states and DC (NHSN, NSSP, NWSS, Census), with reliability flags and source-release provenance. CC BY 4.0. |
 | [ObsAwareData-pipeline](https://github.com/jiandewu/ObsAwareData-pipeline) | Archive of CDC releases and the pipeline that builds ObsAwareData. |
 
@@ -43,14 +44,6 @@ More: [cfa-analgesia-scrna-seq](https://github.com/jiandewu/cfa-analgesia-scrna-
 [neuroblastoma-methylation-analysis](https://github.com/jiandewu/neuroblastoma-methylation-analysis),
 [obesity-expression-analysis](https://github.com/jiandewu/obesity-expression-analysis),
 [blia-blis-expression-analysis](https://github.com/jiandewu/blia-blis-expression-analysis).
-
-## Printable learning materials
-
-LaTeX tools for generating printable worksheets and workbooks:
-[chess-tactics-workbook-generator](https://github.com/jiandewu/chess-tactics-workbook-generator),
-[handwriting-sheet-generator](https://github.com/jiandewu/handwriting-sheet-generator),
-[chinese-poem-learning-generator](https://github.com/jiandewu/chinese-poem-learning-generator),
-[bilingual-homework-generator](https://github.com/jiandewu/bilingual-homework-generator).
 
 ## Selected publications
 
