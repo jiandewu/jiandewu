@@ -1,5 +1,3 @@
-# Hi, I'm Jiande Wu
-
 Data scientist building applied machine learning and LLM systems for public
 health data at the Center for Public Health Modeling and Response (CPHMR),
 Clemson University. Previously a Senior Bioinformatics Specialist at LSU Health
@@ -21,13 +19,13 @@ Sciences Center. Ph.D. in Electrical Engineering, University of New Orleans.
 
 | Project | Description |
 | --- | --- |
-| [resplens](https://github.com/jiandewu/resplens) | Reliability-aware AI toolkit for US respiratory surveillance data, with MCP tools and evaluated document retrieval. |
+| [resplens](https://github.com/jiandewu/resplens) | Reliability-aware AI toolkit for US respiratory surveillance data, with MCP tools and evaluated document retrieval. Reranked hybrid retrieval reaches Recall@5 0.86 on held-out questions (BM25: 0.48). [Case study](https://jiande.is-a.si/projects/resplens/) |
 
 ## Forecasting and public health data
 
 | Project | Description |
 | --- | --- |
-| [covid-transformer-multisource](https://github.com/DMA-PRIME/covid-transformer-multisource) | Transformer model fusing multiple data sources for county-level COVID-19 case and death forecasting; code for the *Epidemics* (2025) paper. |
+| [covid-transformer-multisource](https://github.com/DMA-PRIME/covid-transformer-multisource) | Transformer model fusing multiple data sources for county-level COVID-19 case and death forecasting; code for the *Epidemics* (2025) paper. 81.9% agreement at five weeks ahead, against 61.2% for persistence and 59.9% for ARIMA. [Case study](https://jiande.is-a.si/projects/covid-transformer/) |
 | [ObsAwareData](https://github.com/DMA-PRIME/ObsAwareData) | Weekly COVID-19, influenza, and RSV surveillance data for the 50 US states and DC (NHSN, NSSP, NWSS, Census), with reliability flags and source-release provenance. CC BY 4.0. |
 | [ObsAwareData-pipeline](https://github.com/jiandewu/ObsAwareData-pipeline) | Archive of CDC releases and the pipeline that builds ObsAwareData. |
 
