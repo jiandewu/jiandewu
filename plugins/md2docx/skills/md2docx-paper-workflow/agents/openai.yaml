@@ -1,0 +1,6 @@
+interface:
+  display_name: "MD to DOCX Paper"
+  short_description: "Markdown paper to DOCX workflow"
+  default_prompt: "Use $md2docx-paper-workflow to convert a Markdown paper into a cited DOCX."
+policy:
+  allow_implicit_invocation: true

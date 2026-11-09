@@ -1,0 +1,18 @@
+{
+  "name": "md2docx",
+  "description": "Convert research Markdown papers to DOCX with Pandoc, BibTeX, bundled CSL styles, and Word reference templates.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jiande Wu",
+    "url": "https://github.com/jiandewu"
+  },
+  "repository": "https://github.com/jiandewu/jiandewu",
+  "license": "MIT AND GPL-2.0-or-later AND CC-BY-SA-3.0",
+  "keywords": [
+    "pandoc",
+    "docx",
+    "markdown",
+    "citations",
+    "academic-writing"
+  ]
+}

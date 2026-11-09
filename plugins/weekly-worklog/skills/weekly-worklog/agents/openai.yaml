@@ -1,0 +1,4 @@
+interface:
+  display_name: "每周工作日志"
+  short_description: "按天更新一份中文周工作日志"
+  default_prompt: "使用 $weekly-worklog 更新今天的中文工作日志。"

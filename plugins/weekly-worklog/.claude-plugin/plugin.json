@@ -1,0 +1,17 @@
+{
+  "name": "weekly-worklog",
+  "description": "Keep one Chinese-language weekly work log per ISO week, merged idempotently from Git status, commits, and STATUS.md files across workspace repositories.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Jiande Wu",
+    "url": "https://github.com/jiandewu"
+  },
+  "repository": "https://github.com/jiandewu/jiandewu",
+  "license": "MIT",
+  "keywords": [
+    "worklog",
+    "git",
+    "productivity",
+    "chinese"
+  ]
+}

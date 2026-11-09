@@ -1,0 +1,50 @@
+{
+  "name": "jiandewu",
+  "owner": {
+    "name": "Jiande Wu",
+    "url": "https://github.com/jiandewu"
+  },
+  "description": "Agent skills for research writing and multi-repository Git workflows.",
+  "plugins": [
+    {
+      "name": "md2docx",
+      "source": "./plugins/md2docx",
+      "description": "Convert research Markdown papers to DOCX with Pandoc, BibTeX, bundled CSL styles, and Word reference templates.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": [
+        "pandoc",
+        "docx",
+        "markdown",
+        "citations",
+        "academic-writing"
+      ]
+    },
+    {
+      "name": "workspace-commit",
+      "source": "./plugins/workspace-commit",
+      "description": "Inventory every Git repository in a multi-root workspace, propose logical commits, and stage and commit exact paths only after approval.",
+      "version": "0.1.0",
+      "category": "development",
+      "tags": [
+        "git",
+        "commit",
+        "workspace",
+        "conventional-commits"
+      ]
+    },
+    {
+      "name": "weekly-worklog",
+      "source": "./plugins/weekly-worklog",
+      "description": "Keep one Chinese-language weekly work log per ISO week, merged idempotently from Git status, commits, and STATUS.md files across workspace repositories.",
+      "version": "0.1.0",
+      "category": "productivity",
+      "tags": [
+        "worklog",
+        "git",
+        "productivity",
+        "chinese"
+      ]
+    }
+  ]
+}
