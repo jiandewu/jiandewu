@@ -15,6 +15,7 @@
 | Project | Description |
 | --- | --- |
 | [resplens](https://github.com/jiandewu/resplens) | Reliability-aware AI toolkit for US respiratory surveillance data, with MCP tools and evaluated document retrieval. Reranked hybrid retrieval reaches Recall@5 0.86 on held-out questions (BM25: 0.48). [Case study](https://jiande.is-a.si/projects/resplens/) |
+| [plugins](plugins/) | Claude Code plugin marketplace and Codex skills for Pandoc paper builds (BibTeX, CSL, DOCX templates), multi-repository Git commits, and weekly work logs. |
 
 ## Forecasting and public health data
 
